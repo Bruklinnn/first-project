@@ -14,4 +14,5 @@ public class Praktikum {
         System.out.println("Сегодня не читаем.");
     }
   }
+
 }
